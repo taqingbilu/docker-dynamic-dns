@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-vfs://github/taqingbilu/docker-dynamic-dns"
+		},
+		{
+			"name": "docker-dynamic-dns",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
